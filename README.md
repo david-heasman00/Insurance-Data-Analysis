@@ -32,7 +32,7 @@ Because of the deadline, and the time needed to do a write-up, I was unable to v
 
 Please note, this has been unchanged from when I submitted it to Urban Jungle. 
 
-I used the magic %sql command in jupyter's ipython shell so that I could easily share my code, rather than creating a powerpoint presentation. I then exported it as HTML and sent it over. 
+I used the magic `%sql` command in jupyter's ipython shell so that I could easily share my code, rather than creating a powerpoint presentation. I then exported it as HTML and sent it over. 
 
 Times where I couldn't run the sql command in jupyter's shell, I included my SQL code as markdown.
 
