@@ -18,7 +18,7 @@ The goal was to see if the candidate could join SQL datasets, and manipulate the
 
 While I didn't get the role, it was a fun process, and proved to myself that I have job ready SQL skills and can pass take home tests.[^2]
 
-[^2]: The feedback they gave was that I should cite more of my previous experience in the interview. So it wasn't the data analysis. It was odd feedback though, because *there was never a chance to discuss my previous experience*, but it's feedback I've taken to heart. Regardless of the questions in an interview, I **always** share my previous experience at least once, even if it feels like a non-sequitur. But also – honestly, I appreciated the feedback. One big name UK company ghosted me on feedback even though I got to the third stage. I won't say who they are *cough* no I'm not saying who they are. I'm a professional. *cough*
+[^2]: The feedback they gave was that I should cite more of my previous experience in the interview. So it wasn't the data analysis. It was odd feedback though, because *there was never a chance to discuss my previous experience*, but it's feedback I've taken to heart. Regardless of the questions in an interview, I **always** share my previous experience at least once, even if it feels like a non-sequitur. But also – honestly, I appreciated the feedback. At least they *gave feedback*. One big name UK company ghosted me on feedback even though I got to the third stage. I won't say who they are *cough* no I'm not saying who they are. I'm a professional. *cough*
 
 Because of the deadline, and the time needed to do a write-up, I was unable to visualise the data using my usual data visualisation flair – they're dead simple charts I made in excel in the basic template. 
 
