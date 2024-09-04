@@ -30,11 +30,13 @@ Because of the deadline, and the time needed to do a write-up, I was unable to v
 
 ## Where can I view the code?
 
-Please note, this has been unchanged from when I submitted it to Urban Jungle. 
+Please note, this has been unchanged from when I submitted it to NAME REDACTED[^3].
 
-I used the magic `%sql` command in jupyter's ipython shell so that I could easily share my code, rather than creating a powerpoint presentation. I then exported it as HTML and sent it over. 
+[^3]: I told you I'm a professional.
 
-Times where I couldn't run the sql command in jupyter's shell, I included my SQL code as markdown.
+I used the magic `%sql` command in Jupyter's iPython shell so that I could easily share my code, rather than creating a powerpoint presentation. I then exported it as HTML and sent it over. 
+
+Times where I couldn't run the SQL command in Jupyter's shell, I included my SQL code as markdown.
 
 **You can see my two part jupyter notebook solution here.**
 
