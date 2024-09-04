@@ -30,7 +30,7 @@ Because of the deadline, and the time needed to do a write-up, I was unable to v
 
 ## Where can I view the code?
 
-Please note, this has been unchanged from when I submitted it to NAME REDACTED[^3].
+Please note, this has been unchanged from when I submitted it to [NAME REDACTED][^3].
 
 [^3]: I told you I'm a professional.
 
