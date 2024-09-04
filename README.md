@@ -40,8 +40,8 @@ Times where I couldn't run the SQL command in Jupyter's shell, I included my SQL
 
 **You can see my two part jupyter notebook solution here.**
 
-**[Part 1](https://nbviewer.org/github/david-heasman00/Insurance-Data-Analysis/blob/main/Part%201%20%E2%80%93%20Cleaning%20and%20Joining%20the%20Data.ipynb)**
-**[Part 2](https://nbviewer.org/github/david-heasman00/Insurance-Data-Analysis/blob/main/Part%202%20%E2%80%93%20Analysis%20and%20Answers.ipynb)**
+**[Part 1](https://nbviewer.org/github/david-heasman00/Insurance-Data-SQL-Analysis/blob/main/Part%201%20%E2%80%93%20Cleaning%20and%20Joining%20the%20Data.ipynb)**
+**[Part 2](https://nbviewer.org/github/david-heasman00/Insurance-Data-SQL-Analysis/blob/main/Part%202%20%E2%80%93%20Analysis%20and%20Answers.ipynb)**
 
 ## How can I speak to you?
 
