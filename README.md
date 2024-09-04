@@ -12,7 +12,7 @@ Being a Data Journalist is part writer, part data visualiser, and part data-jack
 
 One company got back in touch via my profile on Otta[^1], and as part of the process sent me a take-home data analysis task, using real insurance data. 
 
-[^1]: They got back three months after I applied via their website (job ad on LinkedIn). And they got in touch via my profile on Otta. I've got no idea if they simply ignored my first application, and spotted my Otta profile, or if they didn't action it, and my Otta profile rejigged their memory. Who knows. But that's the 2024 tech job market for you. 
+[^1]: They got back four to five months after I applied via their website (job ad on LinkedIn). And they got in touch via my profile on Otta. I've got no idea if they simply ignored my first application, and spotted my Otta profile, or if they didn't action it, and my Otta profile rejigged their memory. Who knows. But that's the 2024 tech job market for you. 
 
 The goal was to see if the candidate could join SQL datasets, and manipulate the data in SQL. 
 
